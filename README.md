@@ -40,3 +40,8 @@ The text value for each timeblock is saved in local storage.
 ---
 
 ![](screen_shots/Screen%20Shot%202022-04-07%20at%2010.50.55%20PM.png)
+
+
+deployed link: https://ryuandrew.github.io/Daily-Planner/
+
+github link: https://github.com/ryuandrew/Daily-Planner
